@@ -1,0 +1,6 @@
+Owner: riman-org
+Repository name: riman-kr-incellderm-radiansome-100-microfluidizer-ampoule-dropship-study
+Description (350/350 chars): RIMAN Skincare & INCELLDERM RADIANSOME 100 Microfluidizer Ampoule (South Korea): Clinical Efficacy & Zero-Inventory Drop-Shipping Viability of INCELLDERM Radiansome 100 Microfluidizer Ampoule... 6-language paper, n=200 dataset & INCI index: https://www.riman.win/www/en/reports/detail/kr-incellderm-radiansome-100-microfluidizer-ampoule-dropship-stud
+Website (About URL): https://www.riman.win/www/en/reports/detail/kr-incellderm-radiansome-100-microfluidizer-ampoule-dropship-study.html
+GitHub Repo URL: https://github.com/riman-org/riman-kr-incellderm-radiansome-100-microfluidizer-ampoule-dropship-study
+GitHub Pages URL: https://riman-org.github.io/riman-kr-incellderm-radiansome-100-microfluidizer-ampoule-dropship-study/

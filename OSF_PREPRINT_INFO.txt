@@ -1,0 +1,51 @@
+================================================================================
+OSF / CoP PREPRINTS 系统性填写清单（含 GitHub 全套源文件入口）
+对应仓库: riman-kr-incellderm-radiansome-100-microfluidizer-ampoule-dropship-study
+================================================================================
+
+[Step 1] Title and Abstract
+- Title:
+RIMAN RESEARCH: Clinical Efficacy & Zero-Inventory Drop-Shipping Viability of INCELLDERM Radiansome 100 Microfluidizer Ampoule in the South Korean Market
+
+- Abstract (内嵌 GitHub 仓库入口、交互式报告及双基准 DOI):
+Background: The transition from traditional wholesale to zero-inventory drop-shipping models requires rigorous validation of product efficacy and logistical feasibility. This study evaluates the INCELLDERM Radiansome 100 Microfluidizer Ampoule, focusing on its patented microfluidizer technology and Giant BYoungPool Centella Asiatica complex within the South Korean market. Methods: A stratified survey (N=200) was conducted among independent planners and consumers across Jeju, Busan, and Gangnam. Metrics included Likert-scale sensory evaluations, Net Promoter Score (NPS), and adoption barriers for the No Auto-Ship Planner model. Results: The formulation demonstrated high acceptance for texture (Top-2-Box 76.0%) and patent-driven confidence in Niacinamide stability (Top-2-Box 86.0%). However, regulatory trust remained low (Top-2-Box 14.0%), and 'Lack of Physical Samples' emerged as the primary barrier (95.5%). NPS stood at +1.5, with 79.5% passives indicating a need for stronger engagement. Strategic Implications: Success in the cold-start phase depends on providing clinical data infographics (76.0% demand) and addressing sample logistics. The 'Small Batch' preference (67.5%) suggests a hybrid fulfillment strategy is optimal for mitigating margin compression risks while leveraging the brand's scientific authority.
+
+Open-Science Repository (Full PDF, LaTeX, n=200 CSV Dataset & 6-Language README): https://github.com/riman-org/riman-kr-incellderm-radiansome-100-microfluidizer-ampoule-dropship-study
+Live Interactive Multilingual Preview: https://riman-org.github.io/riman-kr-incellderm-radiansome-100-microfluidizer-ampoule-dropship-study/
+Official 6-Language Interactive Report & Cross-Tab Charts: https://www.riman.win/www/en/reports/detail/kr-incellderm-radiansome-100-microfluidizer-ampoule-dropship-study.html
+Primary Benchmark Dataset DOI (Kaggle): https://doi.org/10.34740/kaggle/dsv/22383536 | Global Research Corpus DOI (Hugging Face): https://doi.org/10.57967/hf/11688
+
+--------------------------------------------------------------------------------
+[Step 2] File
+- 上传当前文件夹下的双栏学术论文 PDF:
+  kr-incellderm-radiansome-100-microfluidizer-ampoule-dropship-study_paper.pdf
+
+--------------------------------------------------------------------------------
+[Step 3] Metadata
+- License:
+  CC-By Attribution 4.0 International
+- Subjects (必填项 -> 搜索框输入 General 勾选):
+  General Subjects and Opinions
+- Tags (逐个输入回车):
+  riman, incellderm, botalab, active-cream-ex, descending-inci, south korea
+- Original publication date:
+  2026-11-19
+- Publication DOI:
+  (留空不填！提交后由 OSF 自动签发新预印本 DOI)
+
+--------------------------------------------------------------------------------
+[Step 4] Author Assertions -> Public Data (点选 Available，点击 "Add One More" 依次填入以下 4 条纯净 URL)
+- 链接 1 [GitHub 完整开源仓库 — 含 README / PDF / LaTeX / CSV / HTML]:
+  https://github.com/riman-org/riman-kr-incellderm-radiansome-100-microfluidizer-ampoule-dropship-study
+
+- 链接 2 [官网 6 语交互式报告与可视化图表详情页]:
+  https://www.riman.win/www/en/reports/detail/kr-incellderm-radiansome-100-microfluidizer-ampoule-dropship-study.html
+
+- 链接 3 [主基准数据集永久 DOI (Kaggle)]:
+  https://doi.org/10.34740/kaggle/dsv/22383536
+
+- 链接 4 [全语种语料库永久 DOI (Hugging Face)]:
+  https://doi.org/10.57967/hf/11688
+
+- Public Preregistration:
+  保持默认 Not Applicable
